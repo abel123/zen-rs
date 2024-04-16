@@ -8,6 +8,7 @@ zen in rust（rust 版缠论)
 + 支持 tradingview 的丰富画线工具
 + 支持多标的联立信号（如招商银行与上证指数叠加）
 + 行情回放
++ low code 自定义 dashboard
   
 demo 示例:
 ![image](https://github.com/abel123/zen-rs/assets/3805243/03cc2304-e5f9-4623-bfad-2de2262846ef)
